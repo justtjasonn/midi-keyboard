@@ -53,4 +53,6 @@ yay i finished it. I wired everything up and changed the positions of the labels
 
   ![3d-midi-3](https://halflife.hackclub-assets.com/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/d3aa5afc471cbaf5ba64dbf843250bd0b325a9017adb8093050f0864f0caa0d3.png)
 
+  btw i think i'm gonna do the firmware in week 8 cuz i wanna spend the time i got left to make the chasis.
+
 [Timelapse](https://lookout.hackclub.com/api/media/74eebdba-4805-4396-ac4a-80742cc078ff/video.mp4)
