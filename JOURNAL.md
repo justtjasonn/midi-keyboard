@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 12.5h | 3 |
+| Week 3 | Tier 1 | 12h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-10-24 – I followed the tutorial for the schematic but made the rotary encoder switch's switch work and added 1 more led and removed 1 bourns slider. I wanted just to folllow the tutorial rlly close. But again
 
-**5.05h**
+**4.55h**
 
 I followed the tutorial for the schematic but made the rotary encoder switch's switch work and added 1 more led and removed 1 bourns slider. I wanted just to folllow the tutorial rlly close. But again i wanted to my own design, so i started experimenting with tiling different shapes into something that looks cool and can maybe function similar to a keyboard. I ended up with this hexagonal angular design:
 
