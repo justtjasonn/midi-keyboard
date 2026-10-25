@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$10.20,$10.20,https://jlcpcb.com/
+ESP-32-S3-Zero,1,Aliexpress (Simple Robot store),$4.30,$4.30,https://www.aliexpress.com/item/1005007004089798.html?src=google&gatewayAdapt=4itemAdapt
 Estimated total shipping,1,,,$5.94,
