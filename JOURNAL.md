@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 12.5h | 3 |
+| Week 3 | Tier 1 | 12.64h | 3 |
 
 ## Contents
 
@@ -60,8 +60,10 @@ yay i finished it. I wired everything up and changed the positions of the labels
 
 ### 2026-10-25 – alr final journal, I made the BOM and made some changes to the pcb. Noteably I changed the bourns slide potentiometer from the PTA1543 to the PTA2043 cuz i CANT find a PTA1543 potentiometer under $10.
 
-**3.43h**
+**3.57h**
 
 alr final journal, I made the BOM and made some changes to the pcb. Noteably I changed the bourns slide potentiometer from the PTA1543 to the PTA2043 cuz i CANT find a PTA1543 potentiometer under $10. I also realized i had the esp 32 the wrong way around lol. Had to rewire a LOT of stuff. Also made a chasis in fusion real quick.
 
 [Timelapse](https://lookout.hackclub.com/api/media/b40b1522-09db-4ad7-a1f3-212fbde7ad69/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/58f42698-74ea-48d9-9503-cbe6e21c2029/video.mp4)
