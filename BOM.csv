@@ -1,3 +1,5 @@
+Covered by hack club:
+
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$10.70,$10.70,https://jlcpcb.com/
 ESP-32-S3-Zero,1,Taobao,$3.47,$3.47,https://item.taobao.com/item.htm?id=964515253442
@@ -6,3 +8,9 @@ SK6812 LED reverse mount,20,Taobao,$0.04,$0.80,https://item.taobao.com/item.htm?
 Alps EC11E rotary encoder switch,1,Taobao,$0.31,$0.31,https://item.taobao.com/item.htm?id=532637569029&mi_id=00000
 PTA2043-2010cbp103 Slide Potentiometers,2,Taobao,$2.40,$4.80,https://item.taobao.com/item.htm?id=580661983780
 Estimated total shipping,1,,,$9.54,
+
+Covered by me (extra): 
+
+Item,Qty,Supplier,Cost/item,Total Cost,link
+3D printed chasis,JLC3DP,2,$1.02,https://jlc3dp.com/
+M3 nuts/screws,at home, $0.00,my home
