@@ -43,6 +43,10 @@
 | 3D printed chasis | 2 | JLC3DP | $1.02 | $2.04 | https://jlc3dp.com/ |
 | M3 nuts/screws | 4 | at home | $0.00 | $0.00 | my home |
 
+# notes(Temporary):
+
+I'll be making the firmware in week 8 is that fine i saw it in a [slack thread](https://hackclub.slack.com/archives/C0BSFN4U5E1/p1792730883112369)
+
 # Credits:
 - [Hackclub for funding and organizing everything including half life](https://hackclub.com)
 - [Half life(and the organizers and helpers)](https://halflife.hackclub.com)
