@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 12h | 3 |
+| Week 3 | Tier 1 | 12.5h | 3 |
 
 ## Contents
 
@@ -40,7 +40,7 @@ I followed the tutorial for the schematic but made the rotary encoder switch's s
 
 ### 2026-10-24 – **FINISHED PCB!!🥳🥳**
 
-**4.02h**
+**4.52h**
 
 **FINISHED PCB!!🥳🥳**
 
